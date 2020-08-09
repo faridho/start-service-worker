@@ -1,15 +1,12 @@
-# start-service-worker
+# Start Service Worker
+How to use service wroker for first time.
 
-how to use service wroker for first time
-
-## Install dependencies
-
+## Install Dependencies
+```
 npm install
-
-### Run 
-
+```
+### Run oN Development
+```
 npm run dev 
-
-
-* **Faridho** - [Medium](https://medium.com/@faridho)
+```
 
